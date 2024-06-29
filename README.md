@@ -2,12 +2,12 @@
 
 # RecyCraft 🌱🤖
 
-- 📦 **License:** [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/syntaxLoopers2023/SIH-project/blob/main/LICENSE)
-- 🔄 **Pull Requests:** [![Pull Requests](https://img.shields.io/github/issues-pr/syntaxLoopers2023/SIH-project)](https://github.com/syntaxLoopers2023/SIH-project/pulls)
-- 🍴 **Forks:** [![Forks](https://img.shields.io/github/forks/syntaxLoopers2023/SIH-project)](https://github.com/syntaxLoopers2023/SIH-project/network/members)
-- 📏 **Repo Size:** [![Repo Size](https://img.shields.io/github/repo-size/syntaxLoopers2023/SIH-project)](https://github.com/syntaxLoopers2023/SIH-project)
-- 💼 **Languages Used:** [![Languages Used](https://img.shields.io/github/languages/count/syntaxLoopers2023/SIH-project)](https://github.com/syntaxLoopers2023/SIH-project)
-- 👥 **Contributors:** [![Contributors](https://img.shields.io/github/contributors/syntaxLoopers2023/SIH-project)](https://github.com/syntaxLoopers2023/SIH-project/graphs/contributors)
+- 📦 **License:** [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/TeamcodeARC/Hack4Bengal-3.0/blob/main/LICENSE)
+- 🔄 **Pull Requests:** [![Pull Requests](https://img.shields.io/github/issues-pr/TeamcodeARC/Hack4Bengal-3.0)](https://github.com/syntaxLoopers2023/SIH-project/pulls)
+- 🍴 **Forks:** [![Forks](https://img.shields.io/github/forks/TeamcodeARC/Hack4Bengal-3.0)](https://github.com/TeamcodeARC/Hack4Bengal-3.0/network/members)
+- 📏 **Repo Size:** [![Repo Size](https://img.shields.io/github/repo-size/TeamcodeARC/Hack4Bengal-3.0)](https://github.com/TeamcodeARC/Hack4Bengal-3.0)
+- 💼 **Languages Used:** [![Languages Used](https://img.shields.io/github/languages/count/TeamcodeARC/Hack4Bengal-3.0)](https://github.com/TeamcodeARC/Hack4Bengal-3.0)
+- 👥 **Contributors:** [![Contributors](https://img.shields.io/github/contributors/TeamcodeARC/Hack4Bengal-3.0)](https://github.com/TeamcodeARC/Hack4Bengal-3.0/graphs/contributors)
 
 Welcome to the RecyCraft, your ultimate gateway to efficient non-biodegradable waste management. Our vision extends beyond a simple app; we are creating a dynamic ecosystem that connects common people with waste vendors and recycling factories. Powered by OpenAI, our innovative waste management platform is designed to help you recycle responsibly and make a positive impact on the environment. Whether you're a concerned individual at home or part of a larger organization, the RecyCraft Ecosystem is here to simplify your waste disposal journey.
 
@@ -41,7 +41,7 @@ The RecyCraft Ecosystem is designed to cater to a diverse audience, including:
 
 The RecyCraft Ecosystem relies on the following dependencies to function effectively:
 
-- [OpenAI GPT-3](https://github.com/openai/gpt-3): The core AI engine that powers the RecyCraft Ecosystem's intelligent responses.
+- [Gemini][(https://gemini.google.com/)]: The core AI engine that powers the RecyCraft Ecosystem's intelligent responses.
 
 ## Languages Used 💻
 
@@ -50,17 +50,16 @@ The RecyCraft Ecosystem is primarily built using the following programming langu
 - Python
 - JavaScript
 - HTML/CSS
-- React
 
 ## Credits and Contributors 👥
 
-The RecyCraft Ecosystem is a collaborative effort by the dedicated team at **SyntaxLoopers2023**. We would like to express our gratitude to all contributors who have helped shape this project. Special thanks to **[Akash Nath](https://github.com/Akash-nath29), [Chirag Nahata](https://github.com/Chirag-Nahata), [Rohit Debnath](https://github.com/Rohit-Dnath), [Sangjukta Bhattacharjee](https://github.com/Sangjuktabhattacharjee), Biki Mukherjee and Aditya Biswas** for their invaluable contributions.
+The RecyCraft Ecosystem is a collaborative effort by the dedicated team at **Team codeARC**. We would like to express our gratitude to all contributors who have helped shape this project. Special thanks to **[Chirag Nahata](https://github.com/Chirag-Nahata), [Somyadip Ghosh](https://github.com/somyadipghosh), [Snigdha Ghosh](https://github.com/snig-code16), [Shamonnoy Halder](https://github.com/Shamonnoy)** for their invaluable contributions.
 
-We also acknowledge the use of OpenAI's GPT-3, which has been instrumental in making the RecyCraft Ecosystem's AI capabilities possible.
+We also acknowledge the use of Gemini, which has been instrumental in making the RecyCraft Ecosystem's AI capabilities possible.
 
 ## Explore Our GitHub Repository 🚀
 
-Ready to explore the inner workings of the RecyCraft Ecosystem? Dive into our [GitHub repository](https://github.com/syntaxLoopers2023/SIH-project) to access a wealth of information and resources:
+Ready to explore the inner workings of the RecyCraft Ecosystem? Dive into our [GitHub repository](https://github.com/TeamcodeARC/Hack4Bengal-3.0/) to access a wealth of information and resources:
 
 
 
@@ -76,6 +75,6 @@ The RecyCraft Ecosystem is more than just an app; it's a movement. Together, we 
 
 🚀 **Get Started Today:** Waste management has never been this exciting. Visit our [GitHub repository](https://github.com/syntaxLoopers2023/SIH-project) to get started on your journey within the RecyCraft Ecosystem.
 
-📧 **Stay Connected:** For inquiries, feedback, or just to say hello, drop us a line at [syntaxloopers23@gmail.com](mailto:syntaxloopers23@gmail.com). We love hearing from fellow eco-warriors!
+📧 **Stay Connected:** For inquiries, feedback, or just to say hello, drop us a line at [codearcteam@gmail.com](mailto:codearcteam@gmail.com). We love hearing from fellow eco-warriors!
 
 Join us in crafting a better tomorrow, one recycle at a time. 🌍🌟🌱
