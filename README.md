@@ -25,7 +25,7 @@ The RecyCraft Ecosystem streamlines waste management with its user-friendly inte
 
 1. **Keyword Recycling:** Start by entering a specific keyword related to your waste item, such as "plastic bottle," into the user-friendly interface. RecyCraft harnesses the power of AI to provide you with an extensive list of recycling options tailored to your query. But we don't stop there; we also connect you with local recycling facilities and vendors, ensuring you have all the information you need to recycle responsibly and sustainably.
 
-2. **Image Recognition (Future Feature):** As part of our ongoing development, we're excited to introduce an image recognition feature. In the near future, you'll be able to take a photo or upload an existing picture of your waste item directly into the RecyCraft Ecosystem. Our advanced AI model will swiftly identify the object and recommend optimal recycling methods. Keep an eye out for this upcoming enhancement, as it promises to make recycling even more accessible!
+2. **Image Recognition:** We're excited to introduce an image recognition feature. You'll be able to take a photo or upload an existing picture of your waste item directly into the RecyCraft Ecosystem. Our advanced AI model will swiftly identify the object and recommend optimal recycling methods. Keep an eye out for this upcoming enhancement, as it promises to make recycling even more accessible!
 
 3. **Video Object Recognition (Future Enhancement):** Looking ahead, we have ambitious plans to introduce video object recognition. With this feature, you can upload a video containing one specific waste items, and the RecyCraft AI will meticulously analyze each frame, identify the object, and provide comprehensive recycling guidance. While this feature is currently in the pipeline, it has the potential to revolutionize waste management.
 
@@ -41,7 +41,7 @@ The RecyCraft Ecosystem is designed to cater to a diverse audience, including:
 
 The RecyCraft Ecosystem relies on the following dependencies to function effectively:
 
-- [Gemini][(https://gemini.google.com/)]: The core AI engine that powers the RecyCraft Ecosystem's intelligent responses.
+- [Gemini](https://gemini.google.com/): The core AI engine that powers the RecyCraft Ecosystem's intelligent responses.
 
 ## Languages Used 💻
 
@@ -76,5 +76,7 @@ The RecyCraft Ecosystem is more than just an app; it's a movement. Together, we 
 🚀 **Get Started Today:** Waste management has never been this exciting. Visit our [GitHub repository](https://github.com/syntaxLoopers2023/SIH-project) to get started on your journey within the RecyCraft Ecosystem.
 
 📧 **Stay Connected:** For inquiries, feedback, or just to say hello, drop us a line at [codearcteam@gmail.com](mailto:codearcteam@gmail.com). We love hearing from fellow eco-warriors!
+
+Explore more at [Team codeARC](https://teamcodearc.is-dev) website.
 
 Join us in crafting a better tomorrow, one recycle at a time. 🌍🌟🌱
