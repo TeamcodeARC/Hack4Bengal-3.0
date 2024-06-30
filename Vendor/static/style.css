@@ -1,0 +1,369 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5vh;
+    margin-bottom: 5vh;
+}
+
+.search {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    background-color: #061837;
+    color: white;
+    padding: 2vh 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2vh;
+    z-index: 1;
+    position: sticky;
+    top: 0;
+}
+
+.navbar button {
+    border: none;
+    outline: none;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#contribute {
+    padding: 8px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+#form select {
+    width: 40vw;
+}
+
+#form>input {
+    padding: 8px 20px;
+    border: 1px solid black;
+    outline: none;
+    cursor: pointer;
+}
+
+#form>input[type=submit] {
+    background-color: #061837;
+    color: white;
+    transition: 0.4s;
+}
+
+#form>input[type=submit]:hover {
+    background-color: white;
+    border: 1px solid #061837;
+    color: #061837;
+}
+
+.searchResult {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #061837;
+    padding: 2vh 5vh;
+    margin: 2vh;
+}
+
+.leftSection {
+    width: 50%;
+}
+
+select {
+    padding: 8px 20px;
+    outline: none;
+    border: 1px solid #061837;
+    cursor: pointer;
+}
+
+.searchResult h1 {
+    font-size: 30px;
+    margin: 2vh 0;
+}
+
+.searchResult p {
+    width: 80%;
+    margin: 2vh 0;
+}
+
+#sellBtn {
+    padding: 8px 20px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #061837;
+    color: white;
+    border: 1px solid black;
+    outline: none;
+    transition: 0.4s;
+}
+
+#sellBtn:hover {
+    background-color: transparent;
+    border: 1px solid #061837;
+    color: #061837;
+}
+
+img {
+    width: 150px;
+}
+
+.notice {
+    color: grey;
+    margin-top: 10vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media screen and (max-width: 700px) {
+
+    /* * {
+        font-size: 15px;
+    } */
+    .navbar {
+        padding: 2vh 2vh;
+    }
+
+    .searchResult {
+        display: flex;
+        flex-direction: column;
+        align-items: space-between;
+        justify-content: center;
+        padding: 2vh;
+    }
+
+    .leftSection {
+        width: 100%;
+    }
+
+    .searchResult p {
+        width: 100%;
+    }
+
+    #form>input[type=text] {
+        width: 100%;
+        padding: 1vh;
+        margin: 1vh 0;
+    }
+
+    select {
+        width: 50%;
+    }
+
+    #form>input[type=submit] {
+        width: 45%;
+    }
+
+    .searchResult {
+        padding: 2vh;
+        width: 95%;
+    }
+
+    img {
+        margin: 2vh;
+    }
+}
+
+/* body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgb(130, 106, 251);
+} */
+
+.regcontainer {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.regcontainer header {
+    font-size: 1.5rem;
+    color: #333;
+    font-weight: 500;
+    text-align: center;
+}
+
+.container .form {
+    margin-top: 30px;
+}
+
+.form .input-box {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.input-box label {
+    color: #333;
+}
+
+.form :where(.input-box input, .select-box) {
+    position: relative;
+    height: 50px;
+    width: 100%;
+    outline: none;
+    font-size: 1rem;
+    color: #707070;
+    margin-top: 8px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 0 15px;
+}
+
+.input-box input:focus {
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.form .column {
+    display: flex;
+    column-gap: 15px;
+}
+
+.form .gender-box {
+    margin-top: 20px;
+}
+
+.gender-box h3 {
+    color: #333;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.form :where(.gender-option, .gender) {
+    display: flex;
+    align-items: center;
+    column-gap: 50px;
+    flex-wrap: wrap;
+}
+
+.form .gender {
+    column-gap: 5px;
+}
+
+.gender input {
+    accent-color: rgb(130, 106, 251);
+}
+
+.form :where(.gender input, .gender label) {
+    cursor: pointer;
+}
+
+.gender label {
+    color: #707070;
+}
+
+.address :where(input, .select-box) {
+    margin-top: 15px;
+}
+
+.select-box select {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    color: #707070;
+    font-size: 1rem;
+}
+
+.form button {
+    height: 55px;
+    width: 100%;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 30px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: rgb(130, 106, 251);
+}
+
+.form button:hover {
+    background: rgb(88, 56, 250);
+}
+
+.popup {
+    width: 400px;
+    background: #fff;
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    border: 2px solid black;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: #333;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.open-popup {
+    visibility: visible;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.popup img {
+    width: 100px;
+    margin-top: -50px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.popup h2 {
+    font-size: 38px;
+    font-weight: 500;
+    margin: 30px 0 10px;
+}
+
+.popup button {
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    background: #6fd649;
+    color: #fff;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+/*Responsive*/
+@media screen and (max-width: 500px) {
+    .form .column {
+        flex-wrap: wrap;
+    }
+
+    .form :where(.gender-option, .gender) {
+        row-gap: 15px;
+    }
+}
